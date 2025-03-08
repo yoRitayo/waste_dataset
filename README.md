@@ -1,4 +1,4 @@
-# RealWaste Dataset 
+# RealWaste Dataset (Disponível no Kaggle)
 
 De acordo com o README.md do RealWaste Dataset:
 
@@ -21,6 +21,6 @@ O conjunto de dados é composto pelas seguintes etiquetas e contagens de imagens
 
 A rotulagem acima pode ser subdividida conforme necessário, ou seja, Plástico transparente, Plástico opaco.
 
-# Garbage Classification Data
+# Garbage Classification Dataset (Disponível no Kaggle)
 
 O conjunto de dados de classificação do lixo contém 6 classificações: papelão (393), vidro (491), metal (400), papel (584), plástico (472) e lixo (127).
